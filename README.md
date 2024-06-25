@@ -1,8 +1,8 @@
 Bienvenido/a a mi Perfil de GitHub 👋
-¡Hola! Soy Junior, un estudiante de segundo año de la Tecnicatura en Informática Aplicada. Me apasiona la programación y estoy enfocado/a en mejorar mis habilidades en diferentes tecnologías. Aquí encontrarás algunos detalles sobre mí y los proyectos en los que estoy trabajando.
+¡Hola! Soy Junior, un estudiante de segundo año de la Tecnicatura en Informática Aplicada. Me apasiona la programación y estoy enfocado/a en mejorar mis habilidades en diferentes tecnologías. En este perfil encontrarás algunos detalles sobre mí y los proyectos en los que estoy trabajando.
 
 Sobre mí
-🎓 Actualmente, estoy cursando mi segundo año en la Tecnicatura en Informática Aplicada.
+🎓 Actualmente, estoy cursando mi segundo año del Profesora en Informática Aplicada.
 💻 Me especializo en el lenguaje de programación C, donde he trabajado en proyectos que van desde programas simples hasta proyectos más complejos.
 📊 Tengo experiencia en el manejo de bases de datos SQL para almacenar y gestionar datos de manera eficiente.
 📈 Además, tengo habilidades en el uso de Excel para el análisis de datos y la creación de informes.
